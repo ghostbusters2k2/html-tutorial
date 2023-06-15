@@ -6,6 +6,7 @@ body{
     line-height: 30px;
 }
 
+/* header styles */
 
 h1{
 font-size:  30px;
@@ -46,6 +47,7 @@ main{
     margin: 0 auto;
     padding: 0 20px;
     border: 20px solid #AA0505;
+    background-color: black;
 }
 
 main img{
