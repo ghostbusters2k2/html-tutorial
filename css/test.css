@@ -1,0 +1,29 @@
+body{
+    background-color: lightyellow;
+}
+
+h1{
+font-size:  30px;
+color: blue;
+}
+
+h2{
+color: orange;
+font-size: 20px;
+}
+
+.big{
+font-size: 70px;
+}
+
+.uppercase{
+text-transform: uppercase;
+}
+
+.big.uppercase{
+color: hotpink;
+}
+
+h1 span{
+color: maroon;
+}
